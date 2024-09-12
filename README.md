@@ -1,2 +1,2 @@
 # Weather-App
-This web application provides real-time weather updates for any location using React and JavaScript. 
+This web application provides real-time weather updates for any location using React and JavaScript. It fetches data from the Weather-by-API-Ninjas API, offering detailed weather information such as temperature, humidity, and wind speed. The app features a clean and responsive UI built with HTML, ensuring a seamless experience across devices. Users can easily input any city or region to get instant weather updates. The application is both efficient and visually appealing, designed with modern web technologies.
